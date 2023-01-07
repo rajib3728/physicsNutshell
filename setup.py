@@ -11,7 +11,7 @@ setup(
     name="physicsNutshell",
     version=VERSION,
     author="Rajib Paul",
-    url="",
+    url="https://github.com/rajib3728/physicsNutshell.git",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
